@@ -526,3 +526,6 @@
 [submodule "Mods/Glue-For-Modpacks"]
 	path = Mods/Glue-For-Modpacks
 	url = https://github.com/Dimserene/Glue-For-Modpacks
+[submodule "Mods/Luttrelliums-Singularity"]
+	path = Mods/Luttrelliums-Singularity
+	url = https://github.com/Luttrellium/Luttrelliums-Singularity---Balatro-Mod
