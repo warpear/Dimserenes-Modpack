@@ -13,9 +13,6 @@
 [submodule "Mods/Galdur"]
 	path = Mods/Galdur
 	url = https://github.com/Eremel/Galdur/
-[submodule "Mods/Flower-Pot"]
-	path = Mods/Flower-Pot
-	url = https://github.com/GauntletGames-2086/Flower-Pot
 [submodule "Mods/TooManyJokers"]
 	path = Mods/TooManyJokers
 	url = https://github.com/cg-223/toomanyjokers
@@ -37,27 +34,15 @@
 [submodule "Mods/NeowBlessings"]
 	path = Mods/NeowBlessings
 	url = https://github.com/lshtech/NeowBlessings
-[submodule "Mods/5CEBalatro"]
-	path = Mods/5CEBalatro
-	url = https://github.com/lshtech/5CEBalatro
 [submodule "Mods/BBBalatro"]
 	path = Mods/BBBalatro
 	url = https://github.com/BBBalatroMod/BBBalatro
 [submodule "Mods/Balatro-Jokers-Plus"]
 	path = Mods/Balatro-Jokers-Plus
 	url = https://github.com/KaviD-115/Balatro-Jokers-Plus
-[submodule "Mods/Balatro-Repentance"]
-	path = Mods/Balatro-Repentance
-	url = https://github.com/lshtech/balatro-repentance
-[submodule "Mods/Balatro451"]
-	path = Mods/Balatro451
-	url = https://github.com/SM451Modding/Balatro451/
 [submodule "Mods/BalatroOlympus"]
 	path = Mods/BalatroOlympus
 	url = https://github.com/lshtech/BalatroOlympus
-[submodule "Mods/BlindEditions"]
-	path = Mods/BlindEditions
-	url = https://github.com/Mathguy23/BlindEditions
 [submodule "Mods/BossJokers"]
 	path = Mods/BossJokers
 	url = https://github.com/KilledByLava/BossJokers
@@ -70,15 +55,9 @@
 [submodule "Mods/ExtraCredit"]
 	path = Mods/ExtraCredit
 	url = https://github.com/GuilloryCraft/ExtraCredit
-[submodule "Mods/ExtraPlanets"]
-	path = Mods/ExtraPlanets
-	url = https://github.com/lshtech/ExtraPlanets
 [submodule "Mods/FasterAnteScaling"]
 	path = Mods/FasterAnteScaling
 	url = https://github.com/castleCodr/FasterAnteScaling
-[submodule "Mods/Fusion-Jokers"]
-	path = Mods/Fusion-Jokers
-	url = https://github.com/lshtech/Fusion-Jokers
 [submodule "Mods/JankJonklers"]
 	path = Mods/JankJonklers
 	url = https://github.com/spikeof2010/JankJonklers
@@ -88,33 +67,15 @@
 [submodule "Mods/JoJokers"]
 	path = Mods/JoJokers
 	url = https://github.com/WarlordShado/JoJokers
-[submodule "Mods/LobotomyCorp"]
-	path = Mods/LobotomyCorp
-	url = https://github.com/Mysthaps/LobotomyCorp
-[submodule "Mods/LushMod"]
-	path = Mods/LushMod
-	url = https://github.com/lshtech/LushMod
 [submodule "Mods/MOARJokers"]
 	path = Mods/MOARJokers
 	url = https://github.com/MrSmoothieHuman1/MOARJokers
-[submodule "Mods/ModpackDecks"]
-	path = Mods/ModpackDecks
-	url = https://github.com/Dimserene/ModpackDecks
 [submodule "Mods/PampaJokerPack"]
 	path = Mods/PampaJokerPack
 	url = https://github.com/lshtech/balatro-pampa-joker-pack
 [submodule "Mods/NotJustYet"]
 	path = Mods/NotJustYet
 	url = https://github.com/Toneblock/balatro-NotJustYet
-[submodule "Mods/No-Laughing-Matter"]
-	path = Mods/No-Laughing-Matter
-	url = https://github.com/Minirebel/no-laughing-matter
-[submodule "Mods/MystesOpenJokers"]
-	path = Mods/MystesOpenJokers
-	url = https://github.com/lshtech/MystesOpenJokers
-[submodule "Mods/MystBlinds"]
-	path = Mods/MystBlinds
-	url = https://github.com/Mysthaps/MystBlinds
 [submodule "Mods/Multi-Jokers"]
 	path = Mods/Multi-Jokers
 	url = https://github.com/lshtech/multi-jokers
@@ -124,48 +85,15 @@
 [submodule "Mods/Ro-Balatro-Reborn"]
 	path = Mods/Ro-Balatro-Reborn
 	url = https://github.com/AlexZGreat/Ro-Balatro-Reborn
-[submodule "Mods/RoR2-Funnyitems"]
-	path = Mods/RoR2-Funnyitems
-	url = https://github.com/lshtech/ror2funnyitems
-[submodule "Mods/RuinaDecks"]
-	path = Mods/RuinaDecks
-	url = https://github.com/someone23832/RuinaDecks
 [submodule "Mods/SDM_0-s-Stuff"]
 	path = Mods/SDM_0-s-Stuff
 	url = https://github.com/SDM0/SDM_0-s-Stuff
 [submodule "Mods/Seven-Deadly-Sins"]
 	path = Mods/Seven-Deadly-Sins
 	url = https://github.com/lshtech/sevendeadlysins
-[submodule "Mods/Seven-Deadly-Decks"]
-	path = Mods/Seven-Deadly-Decks
-	url = https://github.com/AstroLightz/Balatro-7DeadlyDecks
-[submodule "Mods/SoulDeck"]
-	path = Mods/SoulDeck
-	url = https://github.com/schoodst/Schoodst-SoulDeck
-[submodule "Mods/SynthDeck"]
-	path = Mods/SynthDeck
-	url = https://github.com/Eman-3600/SynthDeck
-[submodule "Mods/TatteredDecks"]
-	path = Mods/TatteredDecks
-	url = https://github.com/Cheesy-Brik/TatteredDecks
-[submodule "Mods/The-Buffoon-Pack"]
-	path = Mods/The-Buffoon-Pack
-	url = https://github.com/lshtech/The-Buffoon-Pack
-[submodule "Mods/UnStable"]
-	path = Mods/UnStable
-	url = https://github.com/kirbio/UnStable
-[submodule "Mods/UnStableEX"]
-	path = Mods/UnStableEX
-	url = https://github.com/kirbio/UnStableEX
-[submodule "Mods/Virtues"]
-	path = Mods/Virtues
-	url = https://github.com/someone23832/Virtues
 [submodule "Mods/Warpzone"]
 	path = Mods/Warpzone
 	url = https://github.com/frangnosquest/Warpzone
-[submodule "Mods/Balatro-Draft"]
-	path = Mods/Balatro-Draft
-	url = https://github.com/spire-winder/Balatro-Draft
 [submodule "Mods/Joker-Evolution"]
 	path = Mods/Joker-Evolution
 	url = https://github.com/SDM0/Joker-Evolution
@@ -175,33 +103,15 @@
 [submodule "Mods/AdAbsurdum"]
 	path = Mods/AdAbsurdum
 	url = https://github.com/7f-galaxii/AdAbsurdum
-[submodule "Mods/Reverie"]
-	path = Mods/Reverie
-	url = https://github.com/jumbocarrot0/reverie
-[submodule "Mods/Cruel-Blinds"]
-	path = Mods/Cruel-Blinds
-	url = https://github.com/Dimserene/Cruel-Blinds
 [submodule "Mods/CelesteCardCollection"]
 	path = Mods/CelesteCardCollection
 	url = https://github.com/AuroraKy/CelesteCardCollection
-[submodule "Mods/H1DROmod"]
-	path = Mods/H1DROmod
-	url = https://github.com/hidro0091/H1DROmod-balatro
-[submodule "Mods/Calling_Cards"]
-	path = Mods/Calling_Cards
-	url = https://github.com/rae-vyn/calling_cards
 [submodule "Mods/Bird-Jokers"]
 	path = Mods/Bird-Jokers
 	url = https://github.com/JustinBanzon/Bird-Jokers
-[submodule "Mods/Pauper-Deck"]
-	path = Mods/Pauper-Deck
-	url = https://github.com/AiksiLotl/Pauper-Deck
 [submodule "Mods/Planet-Card-Cash-Out"]
 	path = Mods/Planet-Card-Cash-Out
 	url = https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod
-[submodule "Mods/CustomSuitOrder"]
-	path = Mods/CustomSuitOrder
-	url = https://github.com/DigitalDetective47/suit-order
 [submodule "Mods/KCVanilla"]
 	path = Mods/KCVanilla
 	url = https://github.com/kcgidw/kcvanilla
@@ -217,33 +127,9 @@
 [submodule "Mods/FlushHotkeys"]
 	path = Mods/FlushHotkeys
 	url = https://github.com/Dimserene/FlushHotkeys
-[submodule "Mods/Leapfrog-Balatro-Deck"]
-	path = Mods/Leapfrog-Balatro-Deck
-	url = https://github.com/superdotaplaya/Leapfrog-Balatro-Deck
 [submodule "Mods/Unsorted"]
 	path = Mods/Unsorted
 	url = https://github.com/Telbone/Unsorted
-[submodule "Mods/Lock-The-Deal"]
-	path = Mods/Lock-The-Deal
-	url = https://gitlab.com/lnxfca-dev/balatro-mods/lock-the-deal
-[submodule "Mods/First-Round-Joker"]
-	path = Mods/First-Round-Joker
-	url = https://gitlab.com/lnxfca-dev/balatro-mods/first-round-joker
-[submodule "Mods/LnxFCA-Shared"]
-	path = Mods/LnxFCA-Shared
-	url = https://gitlab.com/lnxfca-dev/balatro-mods/lnxfca-shared
-[submodule "Mods/Hyperfixation"]
-	path = Mods/Hyperfixation
-	url = https://github.com/tomatoseandcrying/hyperfixation
-[submodule "Mods/EvaJokers"]
-	path = Mods/EvaJokers
-	url = https://github.com/Toringen/EvaJokers
-[submodule "Mods/Redux-Arcanum"]
-	path = Mods/Redux-Arcanum
-	url = https://github.com/jumbocarrot0/Redux-Arcanum
-[submodule "Mods/Maxines-Joker-Pack"]
-	path = Mods/Maxines-Joker-Pack
-	url = https://github.com/MaxIsJoe/maxine-balatro-mod
 [submodule "Mods/Revos-Vault"]
 	path = Mods/Revos-Vault
 	url = https://github.com/Cdrvo/Revos-Vault---Balatro-Mod
@@ -256,12 +142,6 @@
 [submodule "Mods/SystemClock"]
 	path = Mods/SystemClock
 	url = https://github.com/Breezebuilder/SystemClock
-[submodule "Mods/Slotmachine"]
-	path = Mods/Slotmachine
-	url = https://github.com/boldboldness/slotmachine
-[submodule "Mods/Strange-Library"]
-	path = Mods/Strange-Library
-	url = https://github.com/DigitalDetective47/strange-library
 [submodule "Mods/SarcPot"]
 	path = Mods/SarcPot
 	url = https://github.com/SarcPot/sarcpot-mod
@@ -274,75 +154,33 @@
 [submodule "Mods/Maeveys-Jokers"]
 	path = Mods/Maeveys-Jokers
 	url = https://github.com/maeveynogget/maeveys-jokers
-[submodule "Mods/TIWMIG"]
-	path = Mods/TIWMIG
-	url = https://github.com/Oinite12/tiwmig-mod
-[submodule "Mods/SuperBalatrowl"]
-	path = Mods/SuperBalatrowl
-	url = https://github.com/boldboldness/superbalatrowl
-[submodule "Mods/Strange-Pencil"]
-	path = Mods/Strange-Pencil
-	url = https://github.com/DigitalDetective47/strange-pencil
-[submodule "Mods/Order"]
-	path = Mods/Order
-	url = https://github.com/pinkmaggit-hub/Order/
-[submodule "Mods/Grim"]
-	path = Mods/Grim
-	url = https://github.com/Dimserene/Grim
 [submodule "Mods/Alices_Annum"]
 	path = Mods/Alices_Annum
 	url = https://github.com/Dimserene/Alices_Annum
 [submodule "Mods/DebugPlus"]
 	path = Mods/DebugPlus
 	url = https://github.com/Dimserene/DebugPlus
-[submodule "Mods/Pestrica"]
-	path = Mods/Pestrica
-	url = https://github.com/marinaposting/PesJkr
-[submodule "Mods/Zeros-Assortment"]
-	path = Mods/Zeros-Assortment
-	url = https://github.com/Zero4793/Zeros-Assortment
 [submodule "Mods/JokerHub"]
 	path = Mods/JokerHub
 	url = https://github.com/sup3p/JokerHub
 [submodule "Mods/Buffoonery"]
 	path = Mods/Buffoonery
 	url = https://github.com/pinkmaggit-hub/Buffoonery
-[submodule "Mods/Fortune"]
-	path = Mods/Fortune
-	url = https://github.com/Maratby/Fortune
-[submodule "Mods/Jestobiology"]
-	path = Mods/Jestobiology
-	url = https://github.com/lshtech/Jestobiology
 [submodule "Mods/Isaactro"]
 	path = Mods/Isaactro
 	url = https://github.com/WilliamFlinchbaugh/Isaactro
-[submodule "Mods/Mossed"]
-	path = Mods/Mossed
-	url = https://github.com/ScribbleIsError/Mossed
 [submodule "Mods/AzzysJokers"]
 	path = Mods/AzzysJokers
 	url = https://github.com/AstrumNativus/AzzysJokers
-[submodule "Mods/Vicsmod"]
-	path = Mods/Vicsmod
-	url = https://github.com/vicentun/Vicsmod
 [submodule "Mods/Plantain"]
 	path = Mods/Plantain
 	url = https://github.com/IcebergLettuce0/Plantain
-[submodule "Mods/Snow-s-Mods"]
-	path = Mods/Snow-s-Mods
-	url = https://github.com/RattlingSnow353/Snow-s-Mods
 [submodule "Mods/DeckStickerShowEverywhere"]
 	path = Mods/DeckStickerShowEverywhere
 	url = https://github.com/qwerty9118/DeckStickerShowEverywhere
 [submodule "Mods/Paperback"]
 	path = Mods/Paperback
 	url = https://github.com/Balatro-Paperback/paperback
-[submodule "Mods/MathBlinds"]
-	path = Mods/MathBlinds
-	url = https://github.com/Bazinga9000/MathBlinds
-[submodule "Mods/BargainBin"]
-	path = Mods/BargainBin
-	url = https://github.com/BeepSterr/Balataro-BargainBin
 [submodule "Mods/Victins-Collection"]
 	path = Mods/Victins-Collection
 	url = https://github.com/VictinZero/balatro-victins-collection
@@ -350,15 +188,6 @@
 [submodule "Mods/Reverse_Tarots"]
 	path = Mods/Reverse_Tarots
 	url = https://github.com/Dimserene/Reverse_Tarots
-[submodule "Mods/Donuts-Mod"]
-	path = Mods/Donuts-Mod
-	url = https://github.com/Dimserene/Donuts-Mod
-[submodule "Mods/Bunco"]
-	path = Mods/Bunco
-	url = https://github.com/Dimserene/Bunco
-[submodule "Mods/YART"]
-	path = Mods/YART
-	url = https://github.com/DigitalDetective47/yart
 [submodule "Mods/Jimbos_Metrics"]
 	path = Mods/Jimbos_Metrics
 	url = https://gitlab.com/CraftedCart/jimbos_metrics/
@@ -374,12 +203,6 @@
 [submodule "Mods/LuckyLegends"]
 	path = Mods/LuckyLegends
 	url = https://github.com/Dimserene/LuckyLegends
-[submodule "Mods/RandomAF"]
-	path = Mods/RandomAF
-	url = https://github.com/sp7n0/RandomAF_Balatro-mod
-[submodule "Mods/BFDI"]
-	path = Mods/BFDI
-	url = https://github.com/GhostSalt/BFDI
 [submodule "Mods/Sticker-Sheet"]
 	path = Mods/Sticker-Sheet
 	url = https://github.com/Dimserene/Sticker-Sheet
@@ -393,43 +216,18 @@
 [submodule "Mods/Betmma_mods"]
 	path = Mods/Betmma_mods
 	url = https://github.com/Dimserene/Betmma_mods
-[submodule "Mods/Blackjacked"]
-	path = Mods/Blackjacked
-	url = https://github.com/TERRAKIRA/Blackjacked-A-Balatro-Mod
-[submodule "Mods/Chudjoker"]
-	path = Mods/Chudjoker
-	url = https://github.com/xastrodyke/Chudjoker
-[submodule "Mods/FearBeyondDeath"]
-	path = Mods/FearBeyondDeath
-	url = https://github.com/Aluminumroadlion/FearBeyondDeath
-[submodule "Mods/FinalBosses"]
-	path = Mods/FinalBosses
-	url = https://github.com/KotetsuRedwood/FinalBosses
 [submodule "Mods/Handsome-Devils"]
 	path = Mods/Handsome-Devils
 	url = https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-
 [submodule "Mods/Mistigris"]
 	path = Mods/Mistigris
 	url = https://github.com/astrapboy/Mistigris
-[submodule "Mods/SauKhongHuDecks"]
-	path = Mods/SauKhongHuDecks
-	url = https://github.com/HuyTheKiller/SauKhongHuDecks/
-[submodule "Mods/Severed"]
-	path = Mods/Severed
-	url = https://github.com/frogzsj/SeveredBalatro
 [submodule "Mods/TheKorczakPack"]
 	path = Mods/TheKorczakPack
 	url = https://github.com/flypotato123/TheKorczakPack
 [submodule "Mods/Wombats-Obscure-Jokers"]
 	path = Mods/Wombats-Obscure-Jokers
 	url = https://github.com/wombatCountry/wombats-obscure-jokers
-[submodule "Mods/YippieMod"]
-	path = Mods/YippieMod
-	url = https://github.com/Coo29/YippieMod
-[submodule "Mods/Tsunami"]
-	path = Mods/Tsunami
-	url = https://github.com/Maratby/Tsunami
-	branch = dev
 [submodule "Mods/TOGAs-Stuff"]
 	path = Mods/TOGAs-Stuff
 	url = https://github.com/TheOneGoofAli/TOGAPackBalatro
@@ -439,12 +237,6 @@
 [submodule "Mods/Magpy-s-Oddities"]
 	path = Mods/Magpy-s-Oddities
 	url = https://github.com/magpyfeather/Magpy-s-Oddities
-[submodule "Mods/Pi_cubeds_Jokers"]
-	path = Mods/Pi_cubeds_Jokers
-	url = https://github.com/pi-cubed-cat/pi_cubeds_jokers
-[submodule "Mods/SilksongCopium"]
-	path = Mods/SilksongCopium
-	url = https://github.com/AetherSky-arch/SkongBalatro
 [submodule "Mods/PumpkinJokesters"]
 	path = Mods/PumpkinJokesters
 	url = https://github.com/PumpkinHook/PumpkinJokesters
@@ -457,57 +249,27 @@
 [submodule "Mods/Opandoras-Box"]
 	path = Mods/Opandoras-Box
 	url = https://github.com/ohpahn/opandoras-box/
-[submodule "Mods/Panley-Joker"]
-	path = Mods/Panley-Joker
-	url = https://github.com/RedrcknRbn/Panley-Joker
 [submodule "Mods/DRCAABM"]
 	path = Mods/DRCAABM
 	url = https://github.com/a-memer/Deliriums-Really-Cool-And-Awsome-Balatro-Mod
-[submodule "Mods/Miku-Friends"]
-	path = Mods/Miku-Friends
-	url = https://github.com/misenrol/MIku-Friends-BalatroMod
-[submodule "Mods/RiftRaft"]
-	path = Mods/RiftRaft
-	url = https://github.com/vitellaryjr/RiftRaft
-[submodule "Mods/PowerCreep"]
-	path = Mods/PowerCreep
-	url = https://github.com/Lpazos1/PowerCreep/
-[submodule "Mods/Balatro-Hevven"]
-	path = Mods/Balatro-Hevven
-	url = https://github.com/TheAlternateDoctor/Balatro-Hevven
 [submodule "Mods/Banner"]
 	path = Mods/Banner
 	url = https://github.com/SylviBlossom/Banner
 [submodule "Mods/Bakery"]
 	path = Mods/Bakery
 	url = https://github.com/BakersDozenBagels/BalatroBakery
-[submodule "Mods/BalatroGoesKino"]
-	path = Mods/BalatroGoesKino
-	url = https://github.com/icyethics/Kino
-[submodule "Mods/Friends-Of-The-Sea"]
-	path = Mods/Friends-Of-The-Sea
-	url = https://github.com/EiraOcemu/Friends-Of-The-Sea
-[submodule "Mods/Nrio-Stuff"]
-	path = Mods/Nrio-Stuff
-	url = https://github.com/NrioModer/Nrio-Stuff
 [submodule "Mods/Wee-Laddies"]
 	path = Mods/Wee-Laddies
 	url = https://github.com/SergantDolt/wee-lads
 [submodule "Mods/No-Stake-Tooltip"]
 	path = Mods/No-Stake-Tooltip
 	url = https://github.com/SDM0/No-Stake-Tooltip
-[submodule "Mods/DevilsDeckbox"]
-	path = Mods/DevilsDeckbox
-	url = https://github.com/nightfreeze9128/DevilsDeckbox
 [submodule "Mods/View-Deck-Pages"]
 	path = Mods/View-Deck-Pages
 	url = https://github.com/RattlingSnow353/View-Deck-Pages
 [submodule "Mods/AetherJokers"]
 	path = Mods/AetherJokers
 	url = https://github.com/BustyCatbot/AetherJokers
-[submodule "Mods/LuckyWishes"]
-	path = Mods/LuckyWishes
-	url = https://github.com/MamiKeRiko/luckywishes
 [submodule "Mods/Quilombo"]
 	path = Mods/Quilombo
 	url = https://github.com/acetna/Quilombo
@@ -523,6 +285,21 @@
 [submodule "Mods/Luttrelliums-Singularity"]
 	path = Mods/Luttrelliums-Singularity
 	url = https://github.com/Luttrellium/Luttrelliums-Singularity---Balatro-Mod
-[submodule "Mods/Holotro"]
-	path = Mods/Holotro
-	url = https://github.com/RivFalcon/Holotro
+[submodule "Mods/Gemstones"]
+	path = Mods/Gemstones
+	url = https://github.com/0fficialHalo/Gemstones
+[submodule "Mods/MoreFluff"]
+	path = Mods/MoreFluff
+	url = https://github.com/notmario/MoreFluff
+[submodule "Mods/Talisman"]
+	path = Mods/Talisman
+	url = https://github.com/Dimserene/Talisman
+[submodule "Mods/TheDreadJokers"]
+	path = Mods/TheDreadJokers
+	url = https://github.com/Dimserene/TheDreadJokers
+[submodule "Mods/Maximus"]
+	path = Mods/Maximus
+	url = https://github.com/the-Astra/Maximus
+[submodule "Mods/Sticky-Fingers"]
+	path = Mods/Sticky-Fingers
+	url = https://github.com/eramdam/sticky-fingers
