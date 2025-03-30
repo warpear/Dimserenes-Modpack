@@ -1,9 +1,6 @@
 [submodule "Mods/Steamodded"]
 	path = Mods/Steamodded
 	url = https://github.com/Steamodded/smods
-[submodule "Mods/Ortalab-DEMO"]
-	path = Mods/Ortalab-DEMO
-	url = https://github.com/Eremel/Ortalab-Demo
 [submodule "Mods/JokerDisplay"]
 	path = Mods/JokerDisplay
 	url = https://github.com/nh6574/JokerDisplay
@@ -154,9 +151,6 @@
 [submodule "Mods/Maeveys-Jokers"]
 	path = Mods/Maeveys-Jokers
 	url = https://github.com/maeveynogget/maeveys-jokers
-[submodule "Mods/Alices_Annum"]
-	path = Mods/Alices_Annum
-	url = https://github.com/Dimserene/Alices_Annum
 [submodule "Mods/DebugPlus"]
 	path = Mods/DebugPlus
 	url = https://github.com/Dimserene/DebugPlus
@@ -209,10 +203,6 @@
 [submodule "Mods/SyltStickers"]
 	path = Mods/SyltStickers
 	url = https://github.com/Dimserene/SyltStickers
-[submodule "Mods/ArtOfTheDeal"]
-	path = Mods/ArtOfTheDeal
-	url = https://github.com/radbanker/Art-of-the-Deal.The-peoples-card-collection
-	branch = Decks-Preview
 [submodule "Mods/Betmma_mods"]
 	path = Mods/Betmma_mods
 	url = https://github.com/Dimserene/Betmma_mods
