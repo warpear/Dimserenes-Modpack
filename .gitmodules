@@ -269,9 +269,9 @@
 [submodule "Mods/Strange-Pencil"]
 	path = Mods/Strange-Pencil
 	url = https://github.com/DigitalDetective47/strange-pencil
-[submodule "Mods/Ortalab-DEMO"]
-	path = Mods/Ortalab-DEMO
-	url = https://github.com/Eremel/Ortalab-Demo
+[submodule "Mods/Ortalab"]
+	path = Mods/Ortalab
+	url = https://github.com/EremelMods/Ortalab
 [submodule "Mods/Reverie"]
 	path = Mods/Reverie
 	url = https://github.com/jumbocarrot0/reverie
