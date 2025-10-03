@@ -1,9 +1,9 @@
 [submodule "Mods/Steamodded"]
 	path = Mods/Steamodded
 	url = https://github.com/Steamodded/smods
-[submodule "Mods/Ortalab-DEMO"]
-	path = Mods/Ortalab-DEMO
-	url = https://github.com/Eremel/Ortalab-Demo
+[submodule "Mods/Ortalab"]
+	path = Mods/Ortalab
+	url = https://github.com/EremelMods/Ortalab
 [submodule "Mods/JokerDisplay"]
 	path = Mods/JokerDisplay
 	url = https://github.com/nh6574/JokerDisplay
